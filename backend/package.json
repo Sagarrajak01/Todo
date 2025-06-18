@@ -1,0 +1,23 @@
+{
+  "name": "todos-backend",
+  "version": "1.0.0",
+  "description": "Simple-Todo-App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sagarrajak01/Todo.git"
+  },
+  "author": "Sagar-Rajak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sagarrajak01/Todo/issues"
+  },
+  "homepage": "https://github.com/Sagarrajak01/Todo#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "zod": "^3.25.67"
+  }
+}
